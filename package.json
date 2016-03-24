@@ -1,0 +1,25 @@
+{
+  "name": "editorconfig-fix",
+  "version": "0.0.0",
+  "description": "Runs the damn editorconfig fix command for CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "editorconfig",
+    "fix",
+    "tool",
+    "cli"
+  ],
+  "author": "Colten Rouska",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizowski/editorconfig-fix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rizowski/editorconfig-fix/issues"
+  },
+  "homepage": "https://github.com/rizowski/editorconfig-fix#readme"
+}
